@@ -11,7 +11,6 @@
 <div align="left"> 
     <h2>Hi, I am Parker.</h2>
     <p><b>I am a fan of...</b><p>
-    <br />
     <ul>
         <li>⚾ Baseball</li>
         <li>🎸 Metal Music</li>
