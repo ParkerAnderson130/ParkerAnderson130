@@ -9,7 +9,7 @@
 
 <br />
 <div align="left"> 
-    <h2 color="#008000">Hi, I am Parker 👋</h2>
+    <h2>Hi, I am Parker 👋</h2>
     <p><b>I am a fan of...</b><p>
     <ul>
         <li>⚾ Baseball</li>
