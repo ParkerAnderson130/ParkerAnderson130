@@ -8,7 +8,7 @@
 > *"Sooner or later you're going to realize just as I did that there's a difference between knowing the path and walking the path"*
 
 <br />
-<div align="center"> 
+<div align="left"> 
     <h2>Hi, I am Parker.</h2>
     <ul> I am a fan of...
         <li>⚾ Baseball</li>
