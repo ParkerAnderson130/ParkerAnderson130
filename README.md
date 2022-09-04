@@ -10,7 +10,7 @@
 <br />
 <div align="left"> 
     <h2>Hi, I am Parker.</h2>
-    <ul> I am a fan of...
+    <ul> <b>I am a fan of...</b> <br />
         <li>⚾ Baseball</li>
         <li>🎸 Metal Music</li>
         <li>💻 Learning Web Development</li>
