@@ -1,6 +1,6 @@
 <div align="center">
     <a href="">
-        <img src="Banner.png" alt="Banner" height="350" width="350">
+        <img src="Banner.png" alt="Banner" style="height: 300; width: 300;">
     </a>
 </div>
 <br />
@@ -9,7 +9,7 @@
 
 <br />
 <div align="left"> 
-    <h2>Hi, I am Parker.</h2>
+    <h2 style="color:#008000;">Hi, I am Parker 👋</h2>
     <p><b>I am a fan of...</b><p>
     <ul>
         <li>⚾ Baseball</li>
