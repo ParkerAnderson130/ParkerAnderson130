@@ -13,7 +13,7 @@
     <p><b>I am a fan of...</b><p>
     <ul>
         <li>⚾ Baseball</li>
-        <li>🎸 Metal Music</li>
+        <li>🎸 Muse</li>
         <li>💻 Learning Web Development</li>
     </ul>
 </div>
