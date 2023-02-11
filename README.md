@@ -17,9 +17,9 @@
     </ul>
     <h2>My Tech Stack 📚</h2>  
     <ul>
-        ![<img src = "https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=008000" height="25"/>](https://www.w3.org/Style/CSS/Overview.en.html)
-        ![<img src = "https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=008000" height="25"/>](https://www.w3.org/Style/CSS/Overview.en.html)
-        ![<img src = "https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=008000" height="25"/>](https://reactjs.org/)
+        <img src = "https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=008000" height="25" href="https://www.w3.org/Style/CSS/Overview.en.html"/>
+        <img src = "https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=008000" height="25" href="https://www.w3.org/Style/CSS/Overview.en.html"/>
+        <img src = "https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=008000" height="25" href="https://reactjs.org/"/>
     </ul>
 </div>
 
