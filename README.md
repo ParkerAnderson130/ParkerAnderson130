@@ -9,7 +9,7 @@
 
 <br />
 <div align="left"> 
-    <h2>Hi, I am Parker <img src="https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif"</img></h2>
+    <h2>Hi, I am Parker <img src="https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" height=20</img></h2>
     <p><b>I am a fan of...</b><p>
     <ul>
         <li>⚾ Baseball</li>
