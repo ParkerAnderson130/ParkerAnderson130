@@ -9,7 +9,7 @@
 
 <br />
 <div align="left"> 
-    <h2>Hi, I am Parker [👋](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)</h2>
+    <h2>Hi, I am Parker ![👋](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)</h2>
     <p><b>I am a fan of...</b><p>
     <ul>
         <li>⚾ Baseball</li>
