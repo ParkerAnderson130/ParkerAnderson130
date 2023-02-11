@@ -9,11 +9,11 @@
 
 <br />
 <div align="left">
-    <h1><b>I am a fan of...</b></h1>
+    <h2><b>I am a fan of...</b></h2>
     <ul>
-        <h2>⚾ Baseball</h2>
-        <h2>🎸 Muse</h2>
-        <h2>💻 Learning Web Development</h2>
+        <p>⚾ Baseball</p>
+        <p>🎸 Muse</p>
+        <p>💻 Learning Web Development</p>
     </ul>
     <h2>My Tech Stack 📚</h2>  
     <ul>
