@@ -12,7 +12,7 @@
     <h2><b>I am a fan of...</b></h2>
     <ul>
         <p>⚾ Baseball</p>
-        <p>🎸 Muse</p>
+        <p>🎸 Muse and the Strokes</p>
         <p>💻 Learning Web Development</p>
     </ul>
     <h2>My Tech Stack 📚</h2>  
