@@ -17,9 +17,20 @@
     </ul>
     <h2>My Tech Stack 📚</h2>  
     <ul>
-        <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=008000" height="25"/></a>
-        <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=008000" height="25"/></a>
-        <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=008000" height="25"/></a>
+        <h3>Intermediate</h3>
+        <li>
+            <a href="https://w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=008000" height="25"/></a>
+            <a href="https://javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=008000" height="25"/></a>
+            <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=008000" height="25"/></a>
+            <a href="https://djangoproject.com/"><img src="https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=008000" height="25"/></a>
+        </li>
+        <h3>Learning</h3>
+        <li>
+            <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-informational?style=flat&logo=express&logoColor=white&color=008000" height="25"/></a>
+            <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next-informational?style=flat&logo=next.js&logoColor=white&color=008000" height="25"/></a>
+        </li>
+        
     </ul>
+        
 </div>
 
