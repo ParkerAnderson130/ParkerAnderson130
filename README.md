@@ -26,7 +26,7 @@
         </li>
         <h3>Learning</h3>
         <li>
-            <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-informational?style=flat&logo=express&logoColor=white&color=008000" height="25"/></a>
+            <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&color=008000" height="25"/></a>
             <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-informational?style=flat&logo=express&logoColor=white&color=008000" height="25"/></a>
             <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next-informational?style=flat&logo=next.js&logoColor=white&color=008000" height="25"/></a>
         </li>
