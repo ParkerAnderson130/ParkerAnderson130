@@ -22,6 +22,8 @@
             <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next-informational?style=flat&logo=next.js&logoColor=white&color=008000" height="25"/></a>
         </ul>
     </ul>
-        
+    <h2><b>More about me...</b></h2>
+    <h3><a href="https://parkera.tech">Portfolio Site 💻</a></h3>
+    
 </div>
 
