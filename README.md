@@ -7,7 +7,7 @@
         <p>💻 Web Development</p>
         <p>📏 Math</p>
     </ul>
-    <h2><b>My Tech Stack 📚</b></h2>  
+    <h2><b>My Tech Stack 📚</b></h2>
     <ul>
         <ul>
             <a href="https://w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/-CSS-informational?style=flat&logo=css&logoColor=white&color=008000" height="25"/></a>
@@ -23,6 +23,4 @@
     </ul>
     <h2><b>More about me...</b></h2>
     <h3><a href="https://parkera.tech">Portfolio Site 💻</a></h3>
-    
 </div>
-
