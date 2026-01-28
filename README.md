@@ -3,13 +3,13 @@
 <div>
     <h2>I am a fan of...</h2>
     <ul>
-        <p>🏈 Football</p>
-        <p>🎸 Muse and The Strokes</p>
-        <p>💻 Web Development</p>
-        <p>📏 Math</p>
+        <li>🏈 Football</li>
+        <li>🎸 Muse and The Strokes</li>
+        <li>💻 Web Development</li>
+        <li>📏 Math</li>
     </ul>
     <h2>My tech stack 📚</h2>
-    <ul>
+    <div>
         <a href="https://w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/-CSS-informational?style=flat&logo=css&logoColor=white&color=008000" height="25"/></a>
         <a href="https://javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=008000" height="25"/></a>
         <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&color=008000" height="25"/></a>
@@ -19,9 +19,9 @@
         <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-informational?style=flat&logo=express&logoColor=white&color=008000" height="25"/></a>
         <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=008000" height="25"/></a>
         <a href="https://djangoproject.com/"><img src="https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=008000" height="25"/></a>
-    </ul>
+    </div>
     <h2>More about me...</h2>
     <ul>
-        <p><a href="https://parkera.tech">Portfolio Site</a> 💻</p>
+        <li><a href="https://parkera.tech">Portfolio Site</a> 💻</li>
     </ul>
 </div>
