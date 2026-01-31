@@ -22,6 +22,6 @@
     </div>
     <h2>More about me...</h2>
     <ul>
-        <li><a href="https://parkera.tech">Portfolio Site</a> 💻</li>
+        <li><a href="https://parkera.tech">Portfolio</a> 💻</li>
     </ul>
 </div>
